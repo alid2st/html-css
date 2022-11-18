@@ -1,0 +1,48 @@
+   #number-one{
+       background: yellow;
+       display: flex;
+justify-content: center;
+}
+#number-two{
+color: white;
+background: purple;
+padding: 20px;
+}
+#number-tree{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+    background: aqua;
+ 
+}
+#number-tree div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: red;
+    width: 500px;
+    
+}
+#ass{
+width: 360px;
+
+}
+#menu{
+display: flex ;
+justify-content: space-between;
+
+}
+#black{
+    color: blue !important;
+}
+#menu  a{
+    font-size: 30px;
+    color: aquamarine;
+    text-decoration: none;
+}
+#rr{
+
+background: green;
+}
